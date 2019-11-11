@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Gradeup"
+           tests="13"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="65.205">
+  <properties />
+  
+  
+            <testcase name="TC10" time="10.442" classname="com.w2a.testcases.Gradeup" />
+                <testcase name="TC01" time="2.008" classname="com.w2a.testcases.Gradeup" />
+                <testcase name="TC04" time="0.091" classname="com.w2a.testcases.Gradeup" />
+                <testcase name="TC11" time="3.111" classname="com.w2a.testcases.Gradeup" />
+                <testcase name="TC05" time="2.286" classname="com.w2a.testcases.Gradeup" />
+                <testcase name="TC06" time="5.203" classname="com.w2a.testcases.Gradeup" />
+                <testcase name="TC15" time="8.216" classname="com.w2a.testcases.Gradeup" />
+                <testcase name="TC03" time="0.040" classname="com.w2a.testcases.Gradeup" />
+                <testcase name="TC02" time="4.081" classname="com.w2a.testcases.Gradeup" />
+                <testcase name="TC12" time="12.934" classname="com.w2a.testcases.Gradeup" />
+                <testcase name="TC14" time="2.632" classname="com.w2a.testcases.Gradeup" />
+                <testcase name="TC09" time="14.132" classname="com.w2a.testcases.Gradeup" />
+                <testcase name="TC07" time="0.029" classname="com.w2a.testcases.Gradeup" />
+      
+</testsuite>
