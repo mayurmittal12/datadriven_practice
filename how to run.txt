@@ -1,0 +1,1 @@
+there are sepearte modules in this project. first go for base setup and config and or properties file. then go for way2automation.git
